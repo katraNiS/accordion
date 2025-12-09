@@ -1,3 +1,2 @@
 # accordion
-
-https://github.com/katraNiS/accordion
+https://roadmap.sh/projects/accordion
